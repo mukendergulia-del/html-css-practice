@@ -1,2 +1,2 @@
 # html-css-practice
-My html and css leaning projects
+My HTML and CSS learning projects
